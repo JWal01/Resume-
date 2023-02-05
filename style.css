@@ -1,0 +1,33 @@
+body{
+  background: #fbfbf8; 
+}
+
+h1{
+  letter-spacing: 2px; 
+  font-size: 40px 
+}
+
+h2{
+  font-size: 15px; 
+  font-family: arial; 
+  line-height: 1.6; 
+}
+h3{
+  font-size: 25px;
+  background: #f1f1eb
+}
+h4{
+  font-size: 25px;
+  background: #f1f1eb;
+}
+p{
+  font-size:20px;
+  line-height: 1.6;
+}
+ul{
+  line-height: 1.2;
+}
+img{
+  width: auto;
+  height: 150px; 
+}
